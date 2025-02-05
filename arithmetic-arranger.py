@@ -39,5 +39,5 @@ def arithmetic_arranger(problems, show_answers=False):
     
     return arranged_problems
 
-# Example usage:
-print(arithmetic_arranger(["8777 - 8", "100 - 43", "123 + 49", "888 + 40", "653 + 87"], show_answers=True))
+
+print(arithmetic_arranger(["8777 - 8", "100 - 43", "123 + 49", "888 + 40", "653 + 87"], True)
